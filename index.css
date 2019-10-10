@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+    background: #E5E2E0;
+}
+
+rect {
+    fill: steelblue;
+    stroke-width: 1px;
+    stroke: black;
+}
+
+text {
+    font-size: 14px;
+    font-family: 'Hepta Slab', serif;
+    text-shadow: 2px 2px 4px;
+    fill: #2E2E2E;
+}
+
+.title-bar {
+    font-size: 40px;
+    font-family: 'Crimson Text', serif;
+}
+
+.x-title {
+    font-size: 25px;
+    font-family: 'Crimson Text', serif;
+    fill: black;
+}
+
+.tick line {
+    stroke: #C0C0BB;
+}
